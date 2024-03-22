@@ -877,7 +877,7 @@ header .side_bar .menu_logo img {
 }
 #omakase .omakase_img {
   height: 500px;
-  background-image: url(./img/business_mtg.jpg);
+  background-image: url(https://raw.githubusercontent.com/TatsuyaOkumura/inbound_test/main/business_mtg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
