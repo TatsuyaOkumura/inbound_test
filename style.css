@@ -321,6 +321,7 @@ header .side_bar .menu_logo img {
   bottom: 0;
   z-index: 2;
   width: 100%;
+  opacity: 0.7;
 }
 .sticky_cta .sticky_wrap {
   width: 80%;
